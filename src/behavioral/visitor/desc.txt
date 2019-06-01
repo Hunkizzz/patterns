@@ -1,0 +1,19 @@
+Посетитель — это поведенческий паттерн,
+ который позволяет добавить новую операцию для целой иерархии классов,
+ не изменяя код этих классов.
+
+ Применимость: Посетитель нечасто встречается в Java-коде из-за своей сложности и нюансов реализазации.
+
+ Примеры Посетителей в стандартных библиотеках Java:
+
+ javax.lang.model.element.AnnotationValue и AnnotationValueVisitor
+ javax.lang.model.element.Element и ElementVisitor
+ javax.lang.model.type.TypeMirror и TypeVisitor
+ java.nio.file.FileVisitor и SimpleFileVisitor
+ javax.faces.component.visit.VisitContext и VisitCallback
+ Сериализация объектов в XML
+ В нашем примере классы геометрических фигур не могут сами экспортировать своё состояние в XML.
+ Представьте, что у вас нет доступа к их коду.
+
+ Однако с помощью Посетителя мы можем прикрутить любое поведение к этой иерархии (с оговоркой,
+  что в ней будет реализован метод accept).
