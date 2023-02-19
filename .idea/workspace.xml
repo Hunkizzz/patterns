@@ -1,157 +1,263 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/src/creational/Builder/cars/Manual.java" description="&#10;public class q {&#10;}&#10;" line="2" />
-    <bookmark url="file://$PROJECT_DIR$/src/structural/Bridge/devices/Device.java" description="&#10;public class e {&#10;}&#10;" line="1" />
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="89555cb8-3659-4fd8-bd9c-be27bfe454b1" name="Default Changelist" comment="" />
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="89555cb8-3659-4fd8-bd9c-be27bfe454b1" name="Default Changelist" comment="add descriptions">
+      <change afterPath="$PROJECT_DIR$/src/Screenshot from 2023-01-10 10-24-47.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Screenshot from 2023-01-10 15-01-47.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Screenshot from 2023-01-10 15-07-13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/normal_forms.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/avlt/AVLTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/bt/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/map/HashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/rbt/README.MD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/rbt/RedBlackTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/Listener/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/Listener/desc.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/Listener/editor/Editor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/Listener/listeners/EmailNotificationListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/Listener/listeners/EventListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/Listener/listeners/LogOpenListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/Listener/publisher/EventManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/Listener/Наблюдатель.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/META-INF/patterns.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/State/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/State/desc.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/State/states/LockedState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/State/states/PlayingState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/State/states/ReadyState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/State/states/State.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/State/ui/Player.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/State/ui/UI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/State/Состояние.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/Strategy/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/Strategy/desc.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/Strategy/strategies/CreditCard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/Strategy/strategies/Order.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/Strategy/strategies/PayByCreditCard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/Strategy/strategies/PayByPayPal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/Strategy/strategies/PayStrategy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/Strategy/Стратегия.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/behavioral/ChainOfResponsibility/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/behavioral/ChainOfResponsibility/desc.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/behavioral/ChainOfResponsibility/middleware/Middleware.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/behavioral/ChainOfResponsibility/middleware/RoleCheckMiddleware.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/behavioral/ChainOfResponsibility/middleware/ThrottlingMiddleware.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/behavioral/ChainOfResponsibility/middleware/UserExistsMiddleware.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/behavioral/ChainOfResponsibility/server/Server.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/behavioral/ChainOfResponsibility/ЦепочкаОбязанностей.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/behavioral/Proxy/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/behavioral/Proxy/desc.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/behavioral/Proxy/downloader/YoutubeDownloader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/behavioral/Proxy/proxy/YoutubeCacheProxy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/behavioral/Proxy/some_cool_media_library/ThirdPartyYoutubeClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/behavioral/Proxy/some_cool_media_library/ThirdPartyYoutubeLib.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/behavioral/Proxy/some_cool_media_library/Video.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/behavioral/Proxy/Прокси.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/behavioral/command/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/behavioral/command/commands/Command.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/behavioral/command/commands/CommandHistory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/behavioral/command/commands/CopyCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/behavioral/command/commands/CutCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/behavioral/command/commands/PasteCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/behavioral/command/desc.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/behavioral/command/editor/Editor$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/behavioral/command/editor/Editor$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/behavioral/command/editor/Editor$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/behavioral/command/editor/Editor$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/behavioral/command/editor/Editor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/behavioral/command/Команда.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/behavioral/iterator/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/behavioral/iterator/desc.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/behavioral/iterator/iterators/FacebookIterator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/behavioral/iterator/iterators/LinkedInIterator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/behavioral/iterator/iterators/ProfileIterator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/behavioral/iterator/profile/Profile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/behavioral/iterator/social_networks/Facebook.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/behavioral/iterator/social_networks/LinkedIn.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/behavioral/iterator/social_networks/SocialNetwork.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/behavioral/iterator/spammer/SocialSpammer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/behavioral/iterator/Итератор.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/creational/AbstractFactory/Application.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/creational/AbstractFactory/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/creational/AbstractFactory/Desc.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/creational/AbstractFactory/buttons/Button.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/creational/AbstractFactory/buttons/MacOSButton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/creational/AbstractFactory/buttons/WindowsButton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/creational/AbstractFactory/checkboxes/Checkbox.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/creational/AbstractFactory/checkboxes/MacOSCheckbox.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/creational/AbstractFactory/checkboxes/WindowsCheckbox.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/creational/AbstractFactory/factories/GUIFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/creational/AbstractFactory/factories/MacOSFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/creational/AbstractFactory/factories/WindowsFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/creational/AbstractFactory/АбстрактнаяФабрика.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/creational/Builder/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/creational/Builder/builders/Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/creational/Builder/builders/CarBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/creational/Builder/builders/CarManualBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/creational/Builder/cars/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/creational/Builder/cars/Manual.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/creational/Builder/cars/Type.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/creational/Builder/components/Engine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/creational/Builder/components/GPSNavigator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/creational/Builder/components/Transmission.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/creational/Builder/components/TripComputer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/creational/Builder/desc.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/creational/Builder/director/Director.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/creational/Builder/Строитель.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/creational/factory_method/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/creational/factory_method/buttons/Button.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/creational/factory_method/buttons/HtmlButton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/creational/factory_method/buttons/WindowsButton$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/creational/factory_method/buttons/WindowsButton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/creational/factory_method/factory/Dialog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/creational/factory_method/factory/HtmlDialog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/creational/factory_method/factory/WindowsDialog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/creational/factory_method/Фабричный_Метод.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/creational/prototype/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/creational/prototype/Shape/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/creational/prototype/Shape/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/creational/prototype/Shape/Shape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/creational/prototype/desc.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/creational/prototype/Прототип.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/creational/singleton/DemoSingleThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/creational/singleton/Singleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/creational/singleton/Одиночка.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/mediator/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/mediator/components/AddButton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/mediator/components/Component.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/mediator/components/DeleteButton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/mediator/components/Filter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/mediator/components/List$Hide.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/mediator/components/List.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/mediator/components/SaveButton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/mediator/components/TextBox.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/mediator/components/Title.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/mediator/desc.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/mediator/mediator/Editor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/mediator/mediator/Mediator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/mediator/mediator/Note.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/mediator/Посредник.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/memento/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/memento/commands/ColorCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/memento/commands/Command.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/memento/commands/MoveCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/memento/desc.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/memento/editor/Canvas$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/memento/editor/Canvas$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/memento/editor/Canvas$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/memento/editor/Canvas$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/memento/editor/Canvas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/memento/editor/Editor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/memento/history/History$Pair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/memento/history/History.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/memento/history/Memento.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/memento/shapes/BaseShape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/memento/shapes/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/memento/shapes/CompoundShape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/memento/shapes/Dot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/memento/shapes/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/memento/shapes/Shape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/memento/Хранитель.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/Bridge/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/Bridge/desc.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/Bridge/devices/Device.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/Bridge/devices/Radio.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/Bridge/devices/Tv.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/Bridge/remotes/AdvancedRemote.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/Bridge/remotes/BasicRemote.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/Bridge/remotes/Remote.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/Bridge/Мост.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/Composite/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/Composite/desc.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/Composite/editor/ImageEditor$EditorCanvas$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/Composite/editor/ImageEditor$EditorCanvas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/Composite/editor/ImageEditor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/Composite/shapes/BaseShape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/Composite/shapes/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/Composite/shapes/CompoundShape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/Composite/shapes/Dot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/Composite/shapes/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/Composite/shapes/Shape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/Composite/Компоновщик.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/Decorator/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/Decorator/decorators/CompressionDecorator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/Decorator/decorators/DataSource.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/Decorator/decorators/DataSourceDecorator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/Decorator/decorators/EncryptionDecorator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/Decorator/decorators/FileDataSource.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/Decorator/desc.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/Decorator/Декоратор.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/Flyweight/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/Flyweight/desc.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/Flyweight/forest/Forest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/Flyweight/trees/Tree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/Flyweight/trees/TreeFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/Flyweight/trees/TreeType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/Flyweight/Приспособленец.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/adapter/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/adapter/adapters/SquarePegAdapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/adapter/desc.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/adapter/round/RoundHole.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/adapter/round/RoundPeg.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/adapter/square/SquarePeg.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/adapter/Адаптер.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/facade/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/facade/desc.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/facade/facade/VideoConversionFacade.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/facade/some_complex_media_library/AudioMixer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/facade/some_complex_media_library/BitrateReader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/facade/some_complex_media_library/Codec.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/facade/some_complex_media_library/CodecFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/facade/some_complex_media_library/MPEG4CompressionCodec.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/facade/some_complex_media_library/OggCompressionCodec.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/facade/some_complex_media_library/VideoFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/facade/Фасад.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/template_method/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/template_method/desc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/template_method/networks/Facebook.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/template_method/networks/Network.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/template_method/networks/Twitter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/template_method/Шаблонный_Метод.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/test/main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/visitor/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/visitor/desc.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/visitor/shapes/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/visitor/shapes/CompoundShape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/visitor/shapes/Dot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/visitor/shapes/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/visitor/shapes/Shape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/visitor/visitor/Visitor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/visitor/visitor/XMLExportVisitor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/visitor/Посетитель.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavioral/ChainOfResponsibility/desc.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavioral/ChainOfResponsibility/desc.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/creational/AbstractFactory/Desc.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/creational/AbstractFactory/Desc.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/behavioral/visitor/Demo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/behavioral/visitor/desc.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="42" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/structural/Proxy/Demo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/behavioral/visitor/shapes/Dot.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
-              <folding>
-                <element signature="e#444#445#0" expanded="true" />
-                <element signature="e#489#490#0" expanded="true" />
-                <element signature="e#514#515#0" expanded="true" />
-                <element signature="e#538#539#0" expanded="true" />
-                <element signature="e#563#564#0" expanded="true" />
-                <element signature="e#587#588#0" expanded="true" />
-                <element signature="e#613#614#0" expanded="true" />
-                <element signature="e#638#639#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/behavioral/visitor/shapes/Rectangle.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-              <folding>
-                <element signature="e#424#425#0" expanded="true" />
-                <element signature="e#475#476#0" expanded="true" />
-                <element signature="e#649#650#0" expanded="true" />
-                <element signature="e#674#675#0" expanded="true" />
-                <element signature="e#699#700#0" expanded="true" />
-                <element signature="e#723#724#0" expanded="true" />
-                <element signature="e#748#749#0" expanded="true" />
-                <element signature="e#772#773#0" expanded="true" />
-                <element signature="e#801#802#0" expanded="true" />
-                <element signature="e#829#830#0" expanded="true" />
-                <element signature="e#859#860#0" expanded="true" />
-                <element signature="e#888#889#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/behavioral/visitor/shapes/CompoundShape.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#230#231#0" expanded="true" />
-                <element signature="e#258#259#0" expanded="true" />
-                <element signature="e#432#433#0" expanded="true" />
-                <element signature="e#457#458#0" expanded="true" />
-                <element signature="e#516#517#0" expanded="true" />
-                <element signature="e#573#574#0" expanded="true" />
-                <element signature="e#609#610#0" expanded="true" />
-                <element signature="e#644#645#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/behavioral/visitor/shapes/Circle.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
-              <folding>
-                <element signature="e#257#258#0" expanded="true" />
-                <element signature="e#305#306#0" expanded="true" />
-                <element signature="e#335#336#0" expanded="true" />
-                <element signature="e#364#365#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/behavioral/visitor/visitor/Visitor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/behavioral/visitor/visitor/XMLExportVisitor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/patterns.iml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -160,120 +266,31 @@
       </list>
     </option>
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/mediator/components/y.java" />
-        <option value="$PROJECT_DIR$/src/mediator/components/w.java" />
-        <option value="$PROJECT_DIR$/src/mediator/components/u.java" />
-        <option value="$PROJECT_DIR$/src/mediator/components/t.java" />
-        <option value="$PROJECT_DIR$/src/mediator/components/r.java" />
-        <option value="$PROJECT_DIR$/src/mediator/components/i.java" />
-        <option value="$PROJECT_DIR$/src/mediator/mediator/e.java" />
-        <option value="$PROJECT_DIR$/src/mediator/components/q.java" />
-        <option value="$PROJECT_DIR$/src/mediator/mediator/q.java" />
-        <option value="$PROJECT_DIR$/src/mediator/Demo.java" />
-        <option value="$PROJECT_DIR$/src/mediator/mediator/desc.txt" />
-        <option value="$PROJECT_DIR$/src/memento/commands/e.java" />
-        <option value="$PROJECT_DIR$/src/memento/shapes/e.java" />
-        <option value="$PROJECT_DIR$/src/memento/shapes/q.java" />
-        <option value="$PROJECT_DIR$/src/memento/shapes/r.java" />
-        <option value="$PROJECT_DIR$/src/memento/shapes/t.java" />
-        <option value="$PROJECT_DIR$/src/memento/shapes/w.java" />
-        <option value="$PROJECT_DIR$/src/memento/shapes/y.java" />
-        <option value="$PROJECT_DIR$/src/memento/history/w.java" />
-        <option value="$PROJECT_DIR$/src/memento/history/q.java" />
-        <option value="$PROJECT_DIR$/src/memento/editor/q.java" />
-        <option value="$PROJECT_DIR$/src/memento/commands/q.java" />
-        <option value="$PROJECT_DIR$/src/memento/commands/w.java" />
-        <option value="$PROJECT_DIR$/src/memento/editor/w.java" />
-        <option value="$PROJECT_DIR$/src/memento/Demo.java" />
-        <option value="$PROJECT_DIR$/src/memento/desc.txt" />
-        <option value="$PROJECT_DIR$/src/template_method/networks/e.java" />
-        <option value="$PROJECT_DIR$/src/template_method/networks/q.java" />
-        <option value="$PROJECT_DIR$/src/template_method/networks/w.java" />
-        <option value="$PROJECT_DIR$/src/template_method/Demo.java" />
-        <option value="$PROJECT_DIR$/src/template_method/desc" />
-        <option value="$PROJECT_DIR$/src/iterator/social_networks/e.java" />
-        <option value="$PROJECT_DIR$/src/iterator/profile/q.java" />
-        <option value="$PROJECT_DIR$/src/iterator/spammer/q.java" />
-        <option value="$PROJECT_DIR$/src/iterator/social_networks/w.java" />
-        <option value="$PROJECT_DIR$/src/iterator/social_networks/q.java" />
-        <option value="$PROJECT_DIR$/src/iterator/iterators/e.java" />
-        <option value="$PROJECT_DIR$/src/iterator/iterators/q.java" />
-        <option value="$PROJECT_DIR$/src/iterator/iterators/w.java" />
-        <option value="$PROJECT_DIR$/src/iterator/Demo.java" />
-        <option value="$PROJECT_DIR$/src/iterator/desc.txt" />
-        <option value="$PROJECT_DIR$/src/visitor/shapes/e.java" />
-        <option value="$PROJECT_DIR$/src/visitor/shapes/r.java" />
-        <option value="$PROJECT_DIR$/src/visitor/visitor/q.java" />
-        <option value="$PROJECT_DIR$/src/visitor/shapes/q.java" />
-        <option value="$PROJECT_DIR$/src/visitor/shapes/w.java" />
-        <option value="$PROJECT_DIR$/src/visitor/shapes/t.java" />
-        <option value="$PROJECT_DIR$/src/visitor/visitor/w.java" />
-        <option value="$PROJECT_DIR$/src/visitor/Demo.java" />
-        <option value="$PROJECT_DIR$/src/visitor/desc.txt" />
-        <option value="$PROJECT_DIR$/src/structural/Proxy/Demo.java" />
-      </list>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="470" />
-    <option name="y" value="100" />
-    <option name="width" value="1440" />
-    <option name="height" value="880" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Course" />
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="patterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="patterns" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="patterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="patterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="behavioral" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="patterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="creational" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="patterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="structural" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
+  <component name="ProjectId" id="2Ea1dcmMzhDVfam24m5n4UkzUw9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559373822963" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\javaprojects\patterns\src\mediator" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="C:\javaprojects\patterns\src\visitor" />
+      <recent name="C:\javaprojects\patterns\src\iterator" />
+      <recent name="C:\javaprojects\patterns\src\template_method" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="visitor.shapes" />
@@ -282,33 +299,30 @@
       <recent name="iterator.social_networks" />
       <recent name="iterator.profile" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\javaprojects\patterns\src\visitor" />
-      <recent name="C:\javaprojects\patterns\src\iterator" />
-      <recent name="C:\javaprojects\patterns\src\template_method" />
-      <recent name="C:\javaprojects\patterns\src\memento" />
-      <recent name="C:\javaprojects\patterns\src\mediator\mediator" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\javaprojects\patterns\src\mediator" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager">
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="behavioral.Strategy.Demo" />
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="AVLTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.avlt.AVLTree" />
       <module name="patterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="behavioral.Strategy.*" />
+          <option name="PATTERN" value="test.avlt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.bt.BinaryTree" />
+      <module name="patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.bt.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -381,12 +395,67 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="HashMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.map.HashMap" />
+      <module name="patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.map.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RedBlackTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.rbt.RedBlackTree" />
+      <module name="patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.rbt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.Test" />
+      <module name="patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.HashMap" />
+        <item itemvalue="Application.BinaryTree" />
+        <item itemvalue="Application.RedBlackTree" />
+        <item itemvalue="Application.AVLTree" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -397,664 +466,120 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559198147526</updated>
+      <workItem from="1662818977487" duration="565000" />
+      <workItem from="1662823044049" duration="1525000" />
+      <workItem from="1662901521066" duration="212000" />
+      <workItem from="1662902574298" duration="528000" />
+      <workItem from="1662907303391" duration="583000" />
+      <workItem from="1662998317331" duration="570000" />
+      <workItem from="1663061161216" duration="559000" />
+      <workItem from="1663170883827" duration="585000" />
+      <workItem from="1673332665370" duration="8140000" />
+      <workItem from="1673797034737" duration="535000" />
+      <workItem from="1674291457395" duration="526000" />
+      <workItem from="1674973730057" duration="530000" />
+      <workItem from="1676188836594" duration="13694000" />
     </task>
+    <task id="LOCAL-00001" summary="add descriptions">
+      <created>1662583439039</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1662583439039</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add descriptions">
+      <created>1662583526931</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1662583526931</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="1145" y="106" width="1440" height="880" extended-state="0" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34347826" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32931727" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3172691" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997923" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Educational.CheckDetails" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.25435072" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-    </layout>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add descriptions" />
+    <option name="LAST_COMMIT_MESSAGE" value="add descriptions" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="591" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1662583441785">
-      <screen x="72" y="27" width="1848" height="1053" />
+    <state x="805" y="261" width="374" height="592" key="#com.intellij.ide.util.MemberChooser" timestamp="1676795789106">
+      <screen x="74" y="27" width="1846" height="1053" />
     </state>
-    <state x="591" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2/72.27.1848.1053@72.27.1848.1053" timestamp="1662583441785" />
-    <state x="777" y="468" width="428" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1662583235249">
-      <screen x="72" y="27" width="1848" height="1053" />
+    <state x="805" y="261" width="374" height="592" key="#com.intellij.ide.util.MemberChooser/74.27.1846.1053@74.27.1846.1053" timestamp="1676795789106" />
+    <state width="1800" height="275" key="GridCell.Tab.0.bottom" timestamp="1676795837995">
+      <screen x="74" y="27" width="1846" height="1053" />
     </state>
-    <state x="777" y="468" width="428" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/72.27.1848.1053@72.27.1848.1053" timestamp="1662583235249" />
-    <state x="800" y="465" width="381" height="183" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1662583172192">
-      <screen x="72" y="27" width="1848" height="1053" />
+    <state width="1800" height="275" key="GridCell.Tab.0.bottom/74.27.1846.1053@74.27.1846.1053" timestamp="1676795837995" />
+    <state width="1800" height="275" key="GridCell.Tab.0.center" timestamp="1676795837995">
+      <screen x="74" y="27" width="1846" height="1053" />
     </state>
-    <state x="800" y="465" width="381" height="183" key="git4idea.remote.GitConfigureRemotesDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1662583172192" />
+    <state width="1800" height="275" key="GridCell.Tab.0.center/74.27.1846.1053@74.27.1846.1053" timestamp="1676795837995" />
+    <state width="1800" height="275" key="GridCell.Tab.0.left" timestamp="1676795837995">
+      <screen x="74" y="27" width="1846" height="1053" />
+    </state>
+    <state width="1800" height="275" key="GridCell.Tab.0.left/74.27.1846.1053@74.27.1846.1053" timestamp="1676795837995" />
+    <state width="1800" height="275" key="GridCell.Tab.0.right" timestamp="1676795837995">
+      <screen x="74" y="27" width="1846" height="1053" />
+    </state>
+    <state width="1800" height="275" key="GridCell.Tab.0.right/74.27.1846.1053@74.27.1846.1053" timestamp="1676795837995" />
+    <state width="1800" height="340" key="GridCell.Tab.1.bottom" timestamp="1676540975807">
+      <screen x="74" y="27" width="1846" height="1053" />
+    </state>
+    <state width="1800" height="340" key="GridCell.Tab.1.bottom/74.27.1846.1053@74.27.1846.1053" timestamp="1676540975807" />
+    <state width="1800" height="340" key="GridCell.Tab.1.center" timestamp="1676540975806">
+      <screen x="74" y="27" width="1846" height="1053" />
+    </state>
+    <state width="1800" height="340" key="GridCell.Tab.1.center/74.27.1846.1053@74.27.1846.1053" timestamp="1676540975806" />
+    <state width="1800" height="340" key="GridCell.Tab.1.left" timestamp="1676540975806">
+      <screen x="74" y="27" width="1846" height="1053" />
+    </state>
+    <state width="1800" height="340" key="GridCell.Tab.1.left/74.27.1846.1053@74.27.1846.1053" timestamp="1676540975806" />
+    <state width="1800" height="340" key="GridCell.Tab.1.right" timestamp="1676540975806">
+      <screen x="74" y="27" width="1846" height="1053" />
+    </state>
+    <state width="1800" height="340" key="GridCell.Tab.1.right/74.27.1846.1053@74.27.1846.1053" timestamp="1676540975806" />
+    <state x="661" y="252" key="run.anything.popup" timestamp="1676489704165">
+      <screen x="74" y="27" width="1846" height="1053" />
+    </state>
+    <state x="661" y="252" key="run.anything.popup/74.27.1846.1053@74.27.1846.1053" timestamp="1676489704165" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/behavioral/mediator/components/SaveButton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="11" column="23" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#351#352#0" expanded="true" />
-            <element signature="e#380#381#0" expanded="true" />
-            <element signature="e#444#445#0" expanded="true" />
-            <element signature="e#484#485#0" expanded="true" />
-            <element signature="e#565#566#0" expanded="true" />
-            <element signature="e#603#604#0" expanded="true" />
-            <element signature="e#648#649#0" expanded="true" />
-            <element signature="e#683#684#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavioral/mediator/components/AddButton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#348#349#0" expanded="true" />
-            <element signature="e#376#377#0" expanded="true" />
-            <element signature="e#440#441#0" expanded="true" />
-            <element signature="e#480#481#0" expanded="true" />
-            <element signature="e#561#562#0" expanded="true" />
-            <element signature="e#608#609#0" expanded="true" />
-            <element signature="e#653#654#0" expanded="true" />
-            <element signature="e#687#688#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavioral/mediator/mediator/Mediator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="39">
-          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavioral/mediator/components/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#197#227#0" expanded="true" />
-            <element signature="e#695#696#0" expanded="true" />
-            <element signature="e#735#736#0" expanded="true" />
-            <element signature="e#1259#1260#0" expanded="true" />
-            <element signature="e#1306#1307#0" expanded="true" />
-            <element signature="e#1351#1352#0" expanded="true" />
-            <element signature="e#1380#1381#0" expanded="true" />
-            <element signature="e#1480#1481#0" expanded="true" />
-            <element signature="e#1520#1521#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavioral/mediator/components/Filter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="15" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#386#387#0" expanded="true" />
-            <element signature="e#426#427#0" expanded="true" />
-            <element signature="e#625#626#0" expanded="true" />
-            <element signature="e#667#668#0" expanded="true" />
-            <element signature="e#1371#1372#0" expanded="true" />
-            <element signature="e#1402#1403#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavioral/mediator/components/DeleteButton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#356#357#0" expanded="true" />
-            <element signature="e#384#385#0" expanded="true" />
-            <element signature="e#448#449#0" expanded="true" />
-            <element signature="e#488#489#0" expanded="true" />
-            <element signature="e#569#570#0" expanded="true" />
-            <element signature="e#606#607#0" expanded="true" />
-            <element signature="e#651#652#0" expanded="true" />
-            <element signature="e#685#686#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavioral/mediator/mediator/Editor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="11" column="36" lean-forward="true" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2211#2212#0" expanded="true" />
-            <element signature="e#2247#2248#0" expanded="true" />
-            <element signature="e#3209#3210#0" expanded="true" />
-            <element signature="e#3250#3251#0" expanded="true" />
-            <element signature="e#3257#3287#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavioral/mediator/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavioral/mediator/desc.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavioral/mediator/Посредник.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavioral/memento/commands/Command.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavioral/memento/shapes/BaseShape.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
-          <folding>
-            <element signature="e#360#361#0" expanded="true" />
-            <element signature="e#384#385#0" expanded="true" />
-            <element signature="e#423#424#0" expanded="true" />
-            <element signature="e#447#448#0" expanded="true" />
-            <element signature="e#490#491#0" expanded="true" />
-            <element signature="e#514#515#0" expanded="true" />
-            <element signature="e#558#559#0" expanded="true" />
-            <element signature="e#582#583#0" expanded="true" />
-            <element signature="e#1192#1193#0" expanded="true" />
-            <element signature="e#1220#1221#0" expanded="true" />
-            <element signature="e#1275#1276#0" expanded="true" />
-            <element signature="e#1309#1310#0" expanded="true" />
-            <element signature="e#1351#1352#0" expanded="true" />
-            <element signature="e#1382#1383#0" expanded="true" />
-            <element signature="e#1426#1427#0" expanded="true" />
-            <element signature="e#1458#1459#0" expanded="true" />
-            <element signature="e#1507#1508#0" expanded="true" />
-            <element signature="e#1538#1539#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavioral/memento/shapes/Circle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-          <folding>
-            <element signature="e#274#275#0" expanded="true" />
-            <element signature="e#307#308#0" expanded="true" />
-            <element signature="e#351#352#0" expanded="true" />
-            <element signature="e#384#385#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavioral/memento/shapes/Dot.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
-          <folding>
-            <element signature="e#161#162#0" expanded="true" />
-            <element signature="e#195#196#0" expanded="true" />
-            <element signature="e#238#239#0" expanded="true" />
-            <element signature="e#269#270#0" expanded="true" />
-            <element signature="e#313#314#0" expanded="true" />
-            <element signature="e#344#345#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavioral/memento/shapes/Rectangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
-          <folding>
-            <element signature="e#342#343#0" expanded="true" />
-            <element signature="e#370#371#0" expanded="true" />
-            <element signature="e#414#415#0" expanded="true" />
-            <element signature="e#443#444#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavioral/memento/shapes/CompoundShape.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#374#375#0" expanded="true" />
-            <element signature="e#413#414#0" expanded="true" />
-            <element signature="e#457#458#0" expanded="true" />
-            <element signature="e#515#516#0" expanded="true" />
-            <element signature="e#554#555#0" expanded="true" />
-            <element signature="e#592#593#0" expanded="true" />
-            <element signature="e#639#640#0" expanded="true" />
-            <element signature="e#700#701#0" expanded="true" />
-            <element signature="e#727#728#0" expanded="true" />
-            <element signature="e#759#760#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavioral/memento/history/Memento.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
-          <folding>
-            <element signature="e#298#299#0" expanded="true" />
-            <element signature="e#336#337#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavioral/memento/history/History.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#148#154#0" expanded="true" />
-            <element signature="e#402#403#0" expanded="true" />
-            <element signature="e#440#441#0" expanded="true" />
-            <element signature="e#480#481#0" expanded="true" />
-            <element signature="e#518#519#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavioral/memento/editor/Editor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#519#520#0" expanded="true" />
-            <element signature="e#551#552#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavioral/memento/shapes/Shape.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="15" lean-forward="true" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavioral/memento/commands/ColorCommand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#308#309#0" expanded="true" />
-            <element signature="e#362#363#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavioral/memento/commands/MoveCommand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavioral/memento/editor/w.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="170" column="5" selection-start-line="170" selection-start-column="5" selection-end-line="170" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1432#1943#0" expanded="true" />
-            <element signature="e#1942#1943#0" expanded="true" />
-            <element signature="e#2096#2597#0" expanded="true" />
-            <element signature="e#2596#2597#0" expanded="true" />
-            <element signature="e#2669#3758#0" expanded="true" />
-            <element signature="e#3757#3758#0" expanded="true" />
-            <element signature="e#4816#4817#0" expanded="true" />
-            <element signature="e#4906#4907#0" expanded="true" />
-            <element signature="e#4936#4937#0" expanded="true" />
-            <element signature="e#5027#5028#0" expanded="true" />
-            <element signature="e#5162#5163#0" expanded="true" />
-            <element signature="e#5186#5187#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavioral/memento/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="27" column="17" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavioral/memento/desc.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="14" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavioral/template_method/networks/Network.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavioral/template_method/networks/Facebook.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
-          <folding>
-            <element signature="e#996#997#0" expanded="true" />
-            <element signature="e#1087#1088#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavioral/template_method/networks/Twitter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
-          <folding>
-            <element signature="e#993#994#0" expanded="true" />
-            <element signature="e#1083#1084#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavioral/template_method/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavioral/template_method/desc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="57" lean-forward="true" selection-start-line="7" selection-start-column="57" selection-end-line="7" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavioral/iterator/social_networks/SocialNetwork.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavioral/iterator/profile/Profile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1069#1070#0" expanded="true" />
-            <element signature="e#1097#1098#0" expanded="true" />
-            <element signature="e#1128#1129#0" expanded="true" />
-            <element signature="e#1155#1156#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavioral/iterator/iterators/ProfileIterator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavioral/iterator/iterators/FacebookIterator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="91">
-          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1500#1501#0" expanded="true" />
-            <element signature="e#1535#1536#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavioral/iterator/iterators/LinkedInIterator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1511#1512#0" expanded="true" />
-            <element signature="e#1546#1547#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavioral/iterator/social_networks/Facebook.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavioral/iterator/social_networks/LinkedIn.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavioral/iterator/spammer/SocialSpammer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="16" column="27" lean-forward="true" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#177#178#0" expanded="true" />
-            <element signature="e#215#216#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavioral/iterator/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="34" lean-forward="true" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1409#1418#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavioral/iterator/desc.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="60" lean-forward="true" selection-start-line="16" selection-start-column="60" selection-end-line="16" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavioral/visitor/shapes/Shape.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavioral/visitor/visitor/Visitor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavioral/visitor/shapes/Dot.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
-          <folding>
-            <element signature="e#444#445#0" expanded="true" />
-            <element signature="e#489#490#0" expanded="true" />
-            <element signature="e#514#515#0" expanded="true" />
-            <element signature="e#538#539#0" expanded="true" />
-            <element signature="e#563#564#0" expanded="true" />
-            <element signature="e#587#588#0" expanded="true" />
-            <element signature="e#613#614#0" expanded="true" />
-            <element signature="e#638#639#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavioral/visitor/shapes/Rectangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-          <folding>
-            <element signature="e#424#425#0" expanded="true" />
-            <element signature="e#475#476#0" expanded="true" />
-            <element signature="e#649#650#0" expanded="true" />
-            <element signature="e#674#675#0" expanded="true" />
-            <element signature="e#699#700#0" expanded="true" />
-            <element signature="e#723#724#0" expanded="true" />
-            <element signature="e#748#749#0" expanded="true" />
-            <element signature="e#772#773#0" expanded="true" />
-            <element signature="e#801#802#0" expanded="true" />
-            <element signature="e#829#830#0" expanded="true" />
-            <element signature="e#859#860#0" expanded="true" />
-            <element signature="e#888#889#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavioral/visitor/shapes/CompoundShape.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#230#231#0" expanded="true" />
-            <element signature="e#258#259#0" expanded="true" />
-            <element signature="e#432#433#0" expanded="true" />
-            <element signature="e#457#458#0" expanded="true" />
-            <element signature="e#516#517#0" expanded="true" />
-            <element signature="e#573#574#0" expanded="true" />
-            <element signature="e#609#610#0" expanded="true" />
-            <element signature="e#644#645#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavioral/visitor/shapes/Circle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
-          <folding>
-            <element signature="e#257#258#0" expanded="true" />
-            <element signature="e#305#306#0" expanded="true" />
-            <element signature="e#335#336#0" expanded="true" />
-            <element signature="e#364#365#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavioral/visitor/visitor/XMLExportVisitor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/patterns.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavioral/visitor/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/behavioral/visitor/desc.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="42" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/structural/Proxy/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/avlt/AVLTree.java</url>
+          <line>203</line>
+          <properties class="test.avlt.AVLTree" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/map/HashMap.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/map/HashMap.java</url>
+          <line>73</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
