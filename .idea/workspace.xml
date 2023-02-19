@@ -20,239 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="89555cb8-3659-4fd8-bd9c-be27bfe454b1" name="Default Changelist" comment="add descriptions">
-      <change afterPath="$PROJECT_DIR$/src/Screenshot from 2023-01-10 10-24-47.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Screenshot from 2023-01-10 15-01-47.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Screenshot from 2023-01-10 15-07-13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/normal_forms.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/avlt/AVLTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/bt/BinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/map/HashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/rbt/README.MD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/rbt/RedBlackTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/Listener/Demo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/Listener/desc.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/Listener/editor/Editor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/Listener/listeners/EmailNotificationListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/Listener/listeners/EventListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/Listener/listeners/LogOpenListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/Listener/publisher/EventManager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/Listener/Наблюдатель.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/META-INF/patterns.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/State/Demo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/State/desc.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/State/states/LockedState.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/State/states/PlayingState.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/State/states/ReadyState.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/State/states/State.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/State/ui/Player.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/State/ui/UI.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/State/Состояние.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/Strategy/Demo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/Strategy/desc.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/Strategy/strategies/CreditCard.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/Strategy/strategies/Order.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/Strategy/strategies/PayByCreditCard.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/Strategy/strategies/PayByPayPal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/Strategy/strategies/PayStrategy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/Strategy/Стратегия.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/behavioral/ChainOfResponsibility/Demo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/behavioral/ChainOfResponsibility/desc.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/behavioral/ChainOfResponsibility/middleware/Middleware.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/behavioral/ChainOfResponsibility/middleware/RoleCheckMiddleware.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/behavioral/ChainOfResponsibility/middleware/ThrottlingMiddleware.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/behavioral/ChainOfResponsibility/middleware/UserExistsMiddleware.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/behavioral/ChainOfResponsibility/server/Server.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/behavioral/ChainOfResponsibility/ЦепочкаОбязанностей.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/behavioral/Proxy/Demo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/behavioral/Proxy/desc.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/behavioral/Proxy/downloader/YoutubeDownloader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/behavioral/Proxy/proxy/YoutubeCacheProxy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/behavioral/Proxy/some_cool_media_library/ThirdPartyYoutubeClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/behavioral/Proxy/some_cool_media_library/ThirdPartyYoutubeLib.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/behavioral/Proxy/some_cool_media_library/Video.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/behavioral/Proxy/Прокси.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/behavioral/command/Demo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/behavioral/command/commands/Command.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/behavioral/command/commands/CommandHistory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/behavioral/command/commands/CopyCommand.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/behavioral/command/commands/CutCommand.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/behavioral/command/commands/PasteCommand.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/behavioral/command/desc.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/behavioral/command/editor/Editor$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/behavioral/command/editor/Editor$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/behavioral/command/editor/Editor$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/behavioral/command/editor/Editor$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/behavioral/command/editor/Editor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/behavioral/command/Команда.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/behavioral/iterator/Demo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/behavioral/iterator/desc.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/behavioral/iterator/iterators/FacebookIterator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/behavioral/iterator/iterators/LinkedInIterator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/behavioral/iterator/iterators/ProfileIterator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/behavioral/iterator/profile/Profile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/behavioral/iterator/social_networks/Facebook.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/behavioral/iterator/social_networks/LinkedIn.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/behavioral/iterator/social_networks/SocialNetwork.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/behavioral/iterator/spammer/SocialSpammer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/behavioral/iterator/Итератор.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/creational/AbstractFactory/Application.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/creational/AbstractFactory/Demo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/creational/AbstractFactory/Desc.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/creational/AbstractFactory/buttons/Button.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/creational/AbstractFactory/buttons/MacOSButton.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/creational/AbstractFactory/buttons/WindowsButton.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/creational/AbstractFactory/checkboxes/Checkbox.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/creational/AbstractFactory/checkboxes/MacOSCheckbox.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/creational/AbstractFactory/checkboxes/WindowsCheckbox.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/creational/AbstractFactory/factories/GUIFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/creational/AbstractFactory/factories/MacOSFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/creational/AbstractFactory/factories/WindowsFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/creational/AbstractFactory/АбстрактнаяФабрика.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/creational/Builder/Demo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/creational/Builder/builders/Builder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/creational/Builder/builders/CarBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/creational/Builder/builders/CarManualBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/creational/Builder/cars/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/creational/Builder/cars/Manual.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/creational/Builder/cars/Type.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/creational/Builder/components/Engine.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/creational/Builder/components/GPSNavigator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/creational/Builder/components/Transmission.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/creational/Builder/components/TripComputer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/creational/Builder/desc.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/creational/Builder/director/Director.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/creational/Builder/Строитель.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/creational/factory_method/Demo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/creational/factory_method/buttons/Button.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/creational/factory_method/buttons/HtmlButton.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/creational/factory_method/buttons/WindowsButton$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/creational/factory_method/buttons/WindowsButton.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/creational/factory_method/factory/Dialog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/creational/factory_method/factory/HtmlDialog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/creational/factory_method/factory/WindowsDialog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/creational/factory_method/Фабричный_Метод.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/creational/prototype/Demo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/creational/prototype/Shape/Circle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/creational/prototype/Shape/Rectangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/creational/prototype/Shape/Shape.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/creational/prototype/desc.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/creational/prototype/Прототип.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/creational/singleton/DemoSingleThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/creational/singleton/Singleton.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/creational/singleton/Одиночка.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/mediator/Demo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/mediator/components/AddButton.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/mediator/components/Component.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/mediator/components/DeleteButton.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/mediator/components/Filter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/mediator/components/List$Hide.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/mediator/components/List.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/mediator/components/SaveButton.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/mediator/components/TextBox.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/mediator/components/Title.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/mediator/desc.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/mediator/mediator/Editor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/mediator/mediator/Mediator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/mediator/mediator/Note.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/mediator/Посредник.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/memento/Demo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/memento/commands/ColorCommand.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/memento/commands/Command.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/memento/commands/MoveCommand.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/memento/desc.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/memento/editor/Canvas$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/memento/editor/Canvas$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/memento/editor/Canvas$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/memento/editor/Canvas$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/memento/editor/Canvas.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/memento/editor/Editor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/memento/history/History$Pair.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/memento/history/History.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/memento/history/Memento.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/memento/shapes/BaseShape.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/memento/shapes/Circle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/memento/shapes/CompoundShape.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/memento/shapes/Dot.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/memento/shapes/Rectangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/memento/shapes/Shape.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/memento/Хранитель.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/Bridge/Demo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/Bridge/desc.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/Bridge/devices/Device.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/Bridge/devices/Radio.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/Bridge/devices/Tv.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/Bridge/remotes/AdvancedRemote.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/Bridge/remotes/BasicRemote.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/Bridge/remotes/Remote.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/Bridge/Мост.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/Composite/Demo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/Composite/desc.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/Composite/editor/ImageEditor$EditorCanvas$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/Composite/editor/ImageEditor$EditorCanvas.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/Composite/editor/ImageEditor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/Composite/shapes/BaseShape.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/Composite/shapes/Circle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/Composite/shapes/CompoundShape.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/Composite/shapes/Dot.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/Composite/shapes/Rectangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/Composite/shapes/Shape.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/Composite/Компоновщик.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/Decorator/Demo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/Decorator/decorators/CompressionDecorator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/Decorator/decorators/DataSource.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/Decorator/decorators/DataSourceDecorator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/Decorator/decorators/EncryptionDecorator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/Decorator/decorators/FileDataSource.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/Decorator/desc.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/Decorator/Декоратор.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/Flyweight/Demo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/Flyweight/desc.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/Flyweight/forest/Forest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/Flyweight/trees/Tree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/Flyweight/trees/TreeFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/Flyweight/trees/TreeType.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/Flyweight/Приспособленец.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/adapter/Demo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/adapter/adapters/SquarePegAdapter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/adapter/desc.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/adapter/round/RoundHole.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/adapter/round/RoundPeg.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/adapter/square/SquarePeg.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/adapter/Адаптер.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/facade/Demo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/facade/desc.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/facade/facade/VideoConversionFacade.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/facade/some_complex_media_library/AudioMixer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/facade/some_complex_media_library/BitrateReader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/facade/some_complex_media_library/Codec.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/facade/some_complex_media_library/CodecFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/facade/some_complex_media_library/MPEG4CompressionCodec.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/facade/some_complex_media_library/OggCompressionCodec.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/facade/some_complex_media_library/VideoFile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/structural/facade/Фасад.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/template_method/Demo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/template_method/desc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/template_method/networks/Facebook.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/template_method/networks/Network.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/template_method/networks/Twitter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/template_method/Шаблонный_Метод.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/test/main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/visitor/Demo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/visitor/desc.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/visitor/shapes/Circle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/visitor/shapes/CompoundShape.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/visitor/shapes/Dot.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/visitor/shapes/Rectangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/visitor/shapes/Shape.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/visitor/visitor/Visitor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/visitor/visitor/XMLExportVisitor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/visitor/Посетитель.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavioral/ChainOfResponsibility/desc.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavioral/ChainOfResponsibility/desc.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/creational/AbstractFactory/Desc.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/creational/AbstractFactory/Desc.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -478,7 +246,7 @@
       <workItem from="1673797034737" duration="535000" />
       <workItem from="1674291457395" duration="526000" />
       <workItem from="1674973730057" duration="530000" />
-      <workItem from="1676188836594" duration="13694000" />
+      <workItem from="1676188836594" duration="14642000" />
     </task>
     <task id="LOCAL-00001" summary="add descriptions">
       <created>1662583439039</created>
@@ -494,7 +262,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662583526931</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add descriptions">
+      <created>1676805212054</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1676805212054</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -553,6 +328,14 @@
       <screen x="74" y="27" width="1846" height="1053" />
     </state>
     <state width="1800" height="340" key="GridCell.Tab.1.right/74.27.1846.1053@74.27.1846.1053" timestamp="1676540975806" />
+    <state x="592" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1676805216251">
+      <screen x="74" y="27" width="1846" height="1053" />
+    </state>
+    <state x="592" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2/74.27.1846.1053@74.27.1846.1053" timestamp="1676805216251" />
+    <state x="778" y="468" width="428" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1676798752650">
+      <screen x="74" y="27" width="1846" height="1053" />
+    </state>
+    <state x="778" y="468" width="428" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/74.27.1846.1053@74.27.1846.1053" timestamp="1676798752650" />
     <state x="661" y="252" key="run.anything.popup" timestamp="1676489704165">
       <screen x="74" y="27" width="1846" height="1053" />
     </state>
