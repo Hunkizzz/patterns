@@ -9,26 +9,44 @@ public class main {
 //
 //        boolean t = true;
 //        boolean r;
-//        r = (t & (0 < (i += 1)));
+//        r = (t & (0 < (i += 2)));
 //        r = (t && (0 < (i += 2)));
 //        r = (t | (0 < (j += 1)));
-//        r = (t || (0 < (i += 2)));
+//        r = (t || (0 < (j += 2)));
 //        System.out.println(i);
 //        System.out.println(j);
 //
 //    }
 
+//
+//    public static void main(String[] args) {
+//        List<List<Integer>> list = List.of(List.of(1, 2, 3), List.of(4, 5, 6), List.of(7, 8, 9));
+//
+////        List<Integer> finList =
+//        list.stream().flatMap(List::stream).reduce(Integer::sum).
+//                ifPresent(System.out::println);
+//
+////        finList.forEach(System.out::println);
+//    }
+
+
+//    public static void main(String[] args) {
+//        int a = 10, b = 5, c = 1, result;
+//        result = a-++c-++b;
+//
+//        System.out.println(result);
+//    }
 
     public static void main(String[] args) {
-        List<List<Integer>> list = List.of(List.of(1, 2, 3), List.of(4, 5, 6), List.of(7, 8, 9));
+        String a = "a";
+        String b = "a";
+        String c = new String("a");
 
-//        List<Integer> finList =
-        list.stream().flatMap(List::stream).reduce(Integer::sum).
-                ifPresent(System.out::println);
-
-//        finList.forEach(System.out::println);
+        System.out.println(a==b);
+        System.out.println(b==c);
+        c = c.intern();
+        System.out.println(b==c);
     }
-
     static void addTwo(int i) {
         i += 2;
     }
