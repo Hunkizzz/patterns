@@ -1,19 +1,32 @@
 package test;
 
+import java.util.List;
+
 public class main {
+//    public static void main(String[] args) {
+//        int i = 0;
+//        int j = 0;
+//
+//        boolean t = true;
+//        boolean r;
+//        r = (t & (0 < (i += 1)));
+//        r = (t && (0 < (i += 2)));
+//        r = (t | (0 < (j += 1)));
+//        r = (t || (0 < (i += 2)));
+//        System.out.println(i);
+//        System.out.println(j);
+//
+//    }
+
+
     public static void main(String[] args) {
-        int i = 0;
-        int j = 0;
+        List<List<Integer>> list = List.of(List.of(1, 2, 3), List.of(4, 5, 6), List.of(7, 8, 9));
 
-        boolean t = true;
-        boolean r;
-        r = (t & (0 < (i += 1)));
-        r = (t && (0 < (i += 2)));
-        r = (t | (0 < (j += 1)));
-        r = (t || (0 < (i += 2)));
-        System.out.println(i);
-        System.out.println(j);
+//        List<Integer> finList =
+        list.stream().flatMap(List::stream).reduce(Integer::sum).
+                ifPresent(System.out::println);
 
+//        finList.forEach(System.out::println);
     }
 
     static void addTwo(int i) {

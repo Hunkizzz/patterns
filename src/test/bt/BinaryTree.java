@@ -46,6 +46,18 @@ public class BinaryTree {
         }
     }
 
+
+    public void invertBinaryTree(Node root) {
+        if (root == null) {
+            return;
+        }
+        Node temp = root.left;
+        root.left = root.right;
+        root.right = temp;
+        invertBinaryTree(root.left);
+        invertBinaryTree(root.right);
+    }
+
 //        Driver Program
 //        to test
 //        above functions
@@ -66,6 +78,11 @@ public class BinaryTree {
         tree.insert(60);
         tree.insert(80);
         //print inorder traversal of the BST
+        tree.inorder();
+
+        tree.invertBinaryTree(tree.root);
+        System.out.println("\n\n\n");
+
         tree.inorder();
     }
 } // A class to represent a node in Binary Tree
