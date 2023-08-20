@@ -1,12 +1,11 @@
 package test.bubblesort;
 
-import java.util.Collections;
-import java.util.List;
+import java.util.HashMap;
+import java.util.Map;
 
 public class BubbleSort {
     public static void main(String[] args) {
         int[] array = {64, 34, 25, 12, 22, 11, 90};
-
         // Bubble sort the array
         for (int i = 0; i < array.length - 1; i++) {
             for (int j = 0; j < array.length - i - 1; j++) {
