@@ -1,21 +1,37 @@
 package test.fastsort;
 
+import java.util.Arrays;
+import java.util.stream.IntStream;
+
 public class FastSort {
     public static void main(String[] args) {
         int[] array = {4, 2, 6, 1, 3, 5};
 
-        sort(array);
+        FastSort fastSort = new FastSort();
+        if (!fastSort.isSorted(array)) {
+            fastSort.sortArray(array);
+        }
 
         for (int j : array) {
             System.out.print(j + " ");
         }
     }
 
-    public static void sort(int[] array) {
-        sort(array, 0, array.length - 1);
+    public int[] sortArray(int[] nums) {
+        if(isSorted(nums))
+            sort(nums, 0, nums.length - 1);
+        return nums;
     }
 
-    private static void sort(int[] array, int low, int high) {
+    public boolean isSorted (int[] array) {
+        if (array == null || array.length <= 1) {
+            return true;
+        }
+
+        return IntStream.range(0, array.length - 1).noneMatch(i -> array[i] > array[i + 1]);
+    }
+
+    private void sort(int[] array, int low, int high) {
         if (low >= high) {
             return;
         }
@@ -25,7 +41,7 @@ public class FastSort {
         sort(array, pivot + 1, high);
     }
 
-    private static int partition(int[] array, int low, int high) {
+    private int partition(int[] array, int low, int high) {
         int pivot = array[high];
         int i = low;
 
@@ -40,7 +56,7 @@ public class FastSort {
         return i;
     }
 
-    private static void swap(int[] array, int i, int j) {
+    private void swap(int[] array, int i, int j) {
         int temp = array[i];
         array[i] = array[j];
         array[j] = temp;

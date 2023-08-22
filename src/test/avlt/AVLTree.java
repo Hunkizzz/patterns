@@ -124,7 +124,7 @@ public class AVLTree {
     }
 
     private int max(int a, int b) {
-        return (a > b) ? a : b;
+        return Math.max(a, b);
     }
 
     private Node rightRotate(Node node) {
